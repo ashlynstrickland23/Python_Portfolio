@@ -8,6 +8,33 @@ Python is used to automate the cleaning process, validate the data, create summa
 
 ---
 
+## Tools Used
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel_Automation-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio_Project-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## Skills Demonstrated
+
+![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-228B22?style=for-the-badge)
+![Excel Automation](https://img.shields.io/badge/Excel_Automation-217346?style=for-the-badge)
+![Data Validation](https://img.shields.io/badge/Data_Validation-DC143C?style=for-the-badge)
+![Missing Value Handling](https://img.shields.io/badge/Missing_Value_Handling-FF8C00?style=for-the-badge)
+![Duplicate Detection](https://img.shields.io/badge/Duplicate_Detection-8A2BE2?style=for-the-badge)
+![Date Conversion](https://img.shields.io/badge/Date_Conversion-4682B4?style=for-the-badge)
+![Currency Cleaning](https://img.shields.io/badge/Currency_Field_Cleaning-2E8B57?style=for-the-badge)
+![Dashboard Ready Data](https://img.shields.io/badge/Dashboard_Ready_Data-FF1493?style=for-the-badge)
+![Business Reporting](https://img.shields.io/badge/Business_Reporting-008080?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-6A5ACD?style=for-the-badge)
+
+---
+
 ## Project Preview
 
 ### Total Net Revenue by Region
@@ -208,35 +235,6 @@ The Python workflow creates dashboard ready summary tables from the cleaned sale
 | `data/cleaned/summary_by_status.csv` | Dashboard ready order status summary |
 | `data/cleaned/summary_by_month.csv` | Dashboard ready monthly summary |
 | `images/` | Saved project visuals |
-
----
-
-## Tools Used
-
-* Python
-* Jupyter Notebook
-* Pandas
-* NumPy
-* Matplotlib
-* Excel file automation
-* GitHub
-
----
-
-## Skills Demonstrated
-
-* Data cleaning
-* Excel file automation
-* Missing value handling
-* Duplicate detection
-* Date conversion
-* Currency field cleaning
-* Percentage field cleaning
-* Text standardization
-* Data quality reporting
-* Dashboard ready dataset creation
-* Business reporting automation
-* Data visualization
 
 ---
 
