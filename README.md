@@ -34,7 +34,7 @@ The goal of this portfolio is to demonstrate how Python can be used to clean mes
 | Project | Focus | Status |
 |---|---|---|
 | [Messy Excel Data Cleaning and Reporting Automation](01_Messy_Excel_Data_Cleaning) | Cleaning messy Excel data and creating dashboard ready outputs | Complete |
-| Sales Forecasting and Revenue Trend Analysis | Forecasting revenue trends with Python | Coming Soon |
+| [Sales Forecasting and Revenue Trend Analysis](02_Sales_Forecasting) | Forecasting revenue trends with Python | Complete |
 | Customer Churn Prediction and Retention Risk Analysis | Predicting customer churn risk with Python | Coming Soon |
 
 ---
