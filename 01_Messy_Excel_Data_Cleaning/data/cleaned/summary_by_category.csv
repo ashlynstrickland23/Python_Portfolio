@@ -1,0 +1,5 @@
+product_category,total_orders,total_net_revenue,average_order_value,total_quantity
+Furniture,170,201682.4625,1186.3674264705883,487.0
+Technology,163,194058.25,1190.5414110429447,454.0
+Office Supplies,82,98584.1875,1202.2461890243903,245.0
+Unknown,85,93350.225,1098.2379411764707,233.0

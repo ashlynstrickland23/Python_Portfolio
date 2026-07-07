@@ -1,0 +1,11 @@
+column_name,missing_values,missing_percent,data_type
+order_id,0,0.0,int64
+customer_name,0,0.0,object
+order_date,191,36.38,datetime64[ns]
+region,0,0.0,string
+product_category,0,0.0,string
+sales_rep,0,0.0,string
+revenue,182,34.67,Float64
+quantity,65,12.38,float64
+discount,110,20.95,Float64
+status,0,0.0,string

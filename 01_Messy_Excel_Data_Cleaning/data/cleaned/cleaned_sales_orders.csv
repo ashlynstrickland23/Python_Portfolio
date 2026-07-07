@@ -1,0 +1,501 @@
+order_id,customer_name,order_date,region,product_category,sales_rep,revenue,quantity,discount,status,net_revenue
+1001,Customer 103,2025-01-01,West,Office Supplies,Morgan,1200.5,1.0,0.0,Completed,1200.5
+1002,Customer 93,2025-01-05,South,Furniture,Casey,2450.75,5.0,0.15,Completed,2083.1375
+1003,Customer 15,2025-01-01,West,Furniture,Unknown,2450.75,1.0,0.0,Completed,2450.75
+1004,Customer 107,2025-03-03,West,Furniture,Alex,2450.75,1.0,0.1,Pending,2205.675
+1005,Customer 72,2025-01-05,South,Office Supplies,Morgan,1200.5,2.0,0.0,Completed,1200.5
+1006,Customer 21,2025-01-05,Unknown,Office Supplies,Jordan,1200.5,5.0,0.05,Unknown,1140.475
+1007,Customer 103,2025-01-01,Unknown,Unknown,Unknown,2450.75,4.0,0.15,Pending,2083.1375
+1008,Customer 122,2025-03-03,Northeast,Technology,Alex,850.0,3.0,0.05,Completed,807.5
+1009,Customer 75,2025-03-03,South,Furniture,Taylor,1200.5,2.0,0.0,Pending,1200.5
+1010,Customer 88,2025-01-01,Northeast,Unknown,Alex,2450.75,1.0,0.1,Pending,2205.675
+1011,Customer 117,2025-03-03,Unknown,Technology,Alex,1200.5,3.0,0.0,Pending,1200.5
+1012,Customer 100,2025-02-10,South,Furniture,Morgan,1200.5,2.0,0.0,Pending,1200.5
+1013,Customer 104,2025-01-01,South,Unknown,Jordan,300.0,3.0,0.1,Completed,270.0
+1014,Customer 131,2025-03-03,South,Furniture,Taylor,1200.5,1.0,0.15,Completed,1020.425
+1015,Customer 150,2025-01-01,Unknown,Technology,Casey,850.0,1.0,0.05,Completed,807.5
+1016,Customer 53,2025-02-10,Northeast,Technology,Casey,2450.75,5.0,0.05,Completed,2328.2125
+1017,Customer 2,2025-01-15,Northeast,Technology,Alex,300.0,5.0,0.05,Completed,285.0
+1018,Customer 88,2025-01-15,South,Technology,Morgan,300.0,2.0,0.15,Pending,255.0
+1019,Customer 38,2025-02-10,West,Furniture,Morgan,1200.5,4.0,0.1,Unknown,1080.45
+1020,Customer 130,2025-01-01,Midwest,Unknown,Casey,300.0,2.0,0.15,Completed,255.0
+1021,Customer 21,2025-02-10,Unknown,Technology,Taylor,850.0,3.0,0.05,Pending,807.5
+1022,Customer 58,2025-01-01,Midwest,Technology,Jordan,850.0,1.0,0.0,Completed,850.0
+1023,Customer 22,2025-01-01,Midwest,Furniture,Taylor,1200.5,3.0,0.0,Pending,1200.5
+1024,Customer 89,2025-01-15,Northeast,Technology,Unknown,850.0,2.0,0.15,Completed,722.5
+1025,Customer 49,2025-03-03,Northeast,Unknown,Unknown,1200.5,1.0,0.15,Pending,1020.425
+1026,Customer 59,2025-01-01,West,Technology,Jordan,300.0,1.0,0.1,Completed,270.0
+1027,Customer 15,2025-01-15,Midwest,Office Supplies,Casey,850.0,2.0,0.1,Completed,765.0
+1028,Customer 51,2025-03-03,Midwest,Furniture,Jordan,1200.5,2.0,0.15,Pending,1020.425
+1029,Customer 108,2025-03-03,South,Unknown,Morgan,1200.5,2.0,0.05,Pending,1140.475
+1030,Customer 55,2025-01-01,Northeast,Unknown,Unknown,300.0,2.0,0.0,Pending,300.0
+1031,Customer 64,2025-01-05,Midwest,Furniture,Alex,1200.5,2.0,0.1,Pending,1080.45
+1032,Customer 131,2025-01-05,West,Technology,Alex,300.0,1.0,0.05,Completed,285.0
+1033,Customer 51,2025-02-10,West,Furniture,Casey,1200.5,2.0,0.0,Pending,1200.5
+1034,Customer 135,2025-01-01,West,Unknown,Morgan,1200.5,5.0,0.1,Completed,1080.45
+1035,Customer 21,2025-03-03,West,Furniture,Taylor,2450.75,5.0,0.05,Completed,2328.2125
+1036,Customer 73,2025-01-01,Unknown,Technology,Morgan,1200.5,2.0,0.05,Pending,1140.475
+1037,Customer 18,2025-01-05,Unknown,Technology,Alex,1200.5,2.0,0.0,Pending,1200.5
+1038,Customer 132,2025-03-03,West,Furniture,Alex,300.0,1.0,0.0,Completed,300.0
+1039,Customer 89,2025-01-05,West,Unknown,Unknown,2450.75,2.0,0.0,Completed,2450.75
+1040,Customer 60,2025-01-05,Midwest,Technology,Morgan,1200.5,2.0,0.05,Pending,1140.475
+1041,Customer 14,2025-01-05,Northeast,Technology,Morgan,2450.75,2.0,0.05,Unknown,2328.2125
+1042,Customer 9,2025-01-01,West,Technology,Alex,2450.75,3.0,0.0,Completed,2450.75
+1043,Customer 90,2025-01-01,South,Technology,Taylor,1200.5,5.0,0.1,Completed,1080.45
+1044,Customer 53,2025-01-01,West,Technology,Casey,1200.5,3.0,0.1,Completed,1080.45
+1045,Customer 130,2025-01-15,West,Office Supplies,Casey,2450.75,2.0,0.15,Completed,2083.1375
+1046,Customer 84,2025-03-03,South,Furniture,Morgan,2450.75,4.0,0.0,Pending,2450.75
+1047,Customer 92,2025-01-01,South,Furniture,Casey,1200.5,3.0,0.15,Completed,1020.425
+1048,Customer 111,2025-01-01,Unknown,Furniture,Alex,2450.75,2.0,0.0,Completed,2450.75
+1049,Customer 8,2025-01-01,Northeast,Furniture,Alex,2450.75,4.0,0.0,Completed,2450.75
+1050,Customer 35,2025-01-01,Midwest,Office Supplies,Morgan,2450.75,3.0,0.05,Completed,2328.2125
+1051,Customer 81,2025-01-01,Northeast,Technology,Morgan,1200.5,2.0,0.0,Completed,1200.5
+1052,Customer 50,2025-01-01,Northeast,Unknown,Unknown,850.0,3.0,0.0,Completed,850.0
+1053,Customer 104,2025-02-10,Northeast,Unknown,Morgan,1200.5,3.0,0.05,Pending,1140.475
+1054,Customer 132,2025-03-03,Northeast,Office Supplies,Taylor,2450.75,3.0,0.1,Completed,2205.675
+1055,Customer 2,2025-01-01,South,Unknown,Casey,1200.5,1.0,0.1,Completed,1080.45
+1056,Customer 134,2025-03-03,South,Furniture,Morgan,1200.5,3.0,0.15,Pending,1020.425
+1057,Customer 54,2025-02-10,Unknown,Furniture,Jordan,300.0,5.0,0.0,Pending,300.0
+1058,Customer 106,2025-02-10,West,Technology,Unknown,300.0,4.0,0.0,Pending,300.0
+1059,Customer 4,2025-03-03,South,Technology,Jordan,2450.75,2.0,0.1,Pending,2205.675
+1060,Customer 54,2025-01-05,Northeast,Technology,Alex,1200.5,3.0,0.0,Completed,1200.5
+1061,Customer 146,2025-01-15,Unknown,Office Supplies,Casey,1200.5,4.0,0.05,Completed,1140.475
+1062,Customer 44,2025-01-05,West,Technology,Morgan,1200.5,2.0,0.0,Completed,1200.5
+1063,Customer 14,2025-01-05,South,Furniture,Jordan,1200.5,4.0,0.0,Completed,1200.5
+1064,Customer 95,2025-01-01,West,Unknown,Casey,1200.5,2.0,0.1,Pending,1080.45
+1065,Customer 48,2025-01-05,Midwest,Furniture,Alex,1200.5,3.0,0.1,Unknown,1080.45
+1066,Customer 15,2025-01-01,South,Office Supplies,Taylor,1200.5,5.0,0.1,Unknown,1080.45
+1067,Customer 40,2025-01-01,West,Furniture,Unknown,850.0,3.0,0.15,Pending,722.5
+1068,Customer 82,2025-01-01,South,Unknown,Casey,1200.5,2.0,0.0,Completed,1200.5
+1069,Customer 111,2025-02-10,West,Furniture,Casey,300.0,4.0,0.0,Completed,300.0
+1070,Customer 53,2025-01-05,Midwest,Office Supplies,Taylor,1200.5,4.0,0.05,Unknown,1140.475
+1071,Customer 24,2025-02-10,Unknown,Furniture,Casey,1200.5,2.0,0.15,Completed,1020.425
+1072,Customer 124,2025-03-03,South,Technology,Alex,1200.5,3.0,0.0,Completed,1200.5
+1073,Customer 41,2025-01-15,West,Furniture,Alex,1200.5,5.0,0.0,Completed,1200.5
+1074,Customer 15,2025-01-01,South,Technology,Taylor,850.0,1.0,0.1,Completed,765.0
+1075,Customer 45,2025-03-03,South,Technology,Unknown,850.0,2.0,0.0,Pending,850.0
+1076,Customer 65,2025-03-03,West,Furniture,Morgan,1200.5,4.0,0.05,Pending,1140.475
+1077,Customer 89,2025-01-01,West,Office Supplies,Jordan,1200.5,2.0,0.15,Pending,1020.425
+1078,Customer 71,2025-01-15,Northeast,Unknown,Morgan,1200.5,1.0,0.15,Completed,1020.425
+1079,Customer 9,2025-03-03,West,Furniture,Casey,1200.5,3.0,0.05,Completed,1140.475
+1080,Customer 88,2025-03-03,Unknown,Furniture,Jordan,850.0,2.0,0.0,Unknown,850.0
+1081,Customer 129,2025-01-15,South,Unknown,Taylor,850.0,1.0,0.0,Completed,850.0
+1082,Customer 136,2025-01-15,South,Technology,Taylor,1200.5,2.0,0.15,Completed,1020.425
+1083,Customer 63,2025-03-03,Unknown,Technology,Unknown,1200.5,3.0,0.15,Unknown,1020.425
+1084,Customer 139,2025-01-15,West,Office Supplies,Jordan,1200.5,4.0,0.1,Completed,1080.45
+1085,Customer 81,2025-03-03,Unknown,Technology,Alex,850.0,1.0,0.0,Completed,850.0
+1086,Customer 136,2025-03-03,Midwest,Furniture,Jordan,1200.5,2.0,0.05,Pending,1140.475
+1087,Customer 33,2025-01-01,Unknown,Technology,Casey,1200.5,4.0,0.0,Completed,1200.5
+1088,Customer 123,2025-01-05,South,Furniture,Alex,2450.75,3.0,0.1,Pending,2205.675
+1089,Customer 5,2025-03-03,Unknown,Office Supplies,Taylor,1200.5,2.0,0.15,Unknown,1020.425
+1090,Customer 41,2025-02-10,South,Furniture,Jordan,300.0,3.0,0.15,Pending,255.0
+1091,Customer 28,2025-01-01,South,Office Supplies,Morgan,1200.5,4.0,0.1,Unknown,1080.45
+1092,Customer 135,2025-01-05,South,Furniture,Unknown,2450.75,3.0,0.05,Unknown,2328.2125
+1093,Customer 72,2025-01-05,West,Furniture,Morgan,300.0,1.0,0.15,Unknown,255.0
+1094,Customer 12,2025-01-05,Northeast,Unknown,Unknown,1200.5,3.0,0.0,Unknown,1200.5
+1095,Customer 33,2025-01-01,South,Technology,Casey,2450.75,2.0,0.15,Unknown,2083.1375
+1096,Customer 48,2025-03-03,South,Office Supplies,Morgan,1200.5,3.0,0.0,Completed,1200.5
+1097,Customer 62,2025-01-01,West,Office Supplies,Jordan,850.0,3.0,0.1,Unknown,765.0
+1098,Customer 37,2025-03-03,South,Unknown,Jordan,1200.5,5.0,0.1,Completed,1080.45
+1099,Customer 99,2025-01-01,Midwest,Furniture,Morgan,2450.75,3.0,0.15,Unknown,2083.1375
+1100,Customer 104,2025-01-01,Unknown,Furniture,Jordan,850.0,3.0,0.0,Pending,850.0
+1101,Customer 35,2025-01-01,Northeast,Technology,Casey,2450.75,4.0,0.0,Unknown,2450.75
+1102,Customer 101,2025-02-10,South,Technology,Alex,2450.75,2.0,0.05,Completed,2328.2125
+1103,Customer 131,2025-01-01,West,Technology,Casey,850.0,4.0,0.15,Unknown,722.5
+1104,Customer 1,2025-01-01,Midwest,Unknown,Unknown,300.0,4.0,0.05,Unknown,285.0
+1105,Customer 5,2025-01-15,West,Furniture,Casey,1200.5,1.0,0.15,Pending,1020.425
+1106,Customer 142,2025-02-10,West,Furniture,Unknown,1200.5,4.0,0.0,Pending,1200.5
+1107,Customer 103,2025-01-01,Unknown,Office Supplies,Jordan,2450.75,5.0,0.0,Pending,2450.75
+1108,Customer 27,2025-01-05,West,Technology,Alex,1200.5,5.0,0.0,Completed,1200.5
+1109,Customer 137,2025-01-15,Midwest,Office Supplies,Jordan,1200.5,3.0,0.0,Pending,1200.5
+1110,Customer 15,2025-01-15,West,Office Supplies,Taylor,850.0,1.0,0.1,Completed,765.0
+1111,Customer 90,2025-01-01,Midwest,Technology,Jordan,1200.5,3.0,0.1,Completed,1080.45
+1112,Customer 42,2025-01-15,South,Furniture,Unknown,850.0,3.0,0.0,Completed,850.0
+1113,Customer 124,2025-02-10,Midwest,Technology,Jordan,1200.5,2.0,0.05,Pending,1140.475
+1114,Customer 63,2025-01-01,Midwest,Office Supplies,Jordan,1200.5,2.0,0.15,Completed,1020.425
+1115,Customer 96,2025-01-01,Northeast,Technology,Alex,1200.5,2.0,0.15,Completed,1020.425
+1116,Customer 52,2025-01-05,Midwest,Furniture,Jordan,1200.5,4.0,0.1,Pending,1080.45
+1117,Customer 96,2025-01-01,Midwest,Technology,Alex,1200.5,4.0,0.15,Pending,1020.425
+1118,Customer 132,2025-01-05,West,Furniture,Morgan,1200.5,2.0,0.1,Unknown,1080.45
+1119,Customer 143,2025-01-15,South,Technology,Taylor,1200.5,4.0,0.0,Completed,1200.5
+1120,Customer 29,2025-01-05,Unknown,Technology,Alex,850.0,2.0,0.05,Pending,807.5
+1121,Customer 36,2025-02-10,Northeast,Furniture,Unknown,2450.75,3.0,0.0,Completed,2450.75
+1122,Customer 13,2025-01-01,West,Office Supplies,Morgan,1200.5,3.0,0.0,Pending,1200.5
+1123,Customer 71,2025-01-15,South,Office Supplies,Alex,1200.5,5.0,0.0,Completed,1200.5
+1124,Customer 86,2025-01-05,South,Furniture,Alex,850.0,3.0,0.0,Completed,850.0
+1125,Customer 28,2025-01-01,South,Technology,Taylor,850.0,3.0,0.0,Unknown,850.0
+1126,Customer 66,2025-02-10,South,Unknown,Unknown,850.0,2.0,0.15,Completed,722.5
+1127,Customer 45,2025-02-10,Unknown,Office Supplies,Casey,2450.75,3.0,0.05,Pending,2328.2125
+1128,Customer 62,2025-01-05,Midwest,Furniture,Casey,1200.5,2.0,0.0,Completed,1200.5
+1129,Customer 134,2025-01-01,West,Furniture,Alex,2450.75,1.0,0.0,Pending,2450.75
+1130,Customer 28,2025-01-05,West,Furniture,Jordan,300.0,4.0,0.0,Completed,300.0
+1131,Customer 28,2025-01-15,Northeast,Unknown,Unknown,850.0,1.0,0.05,Completed,807.5
+1132,Customer 108,2025-01-05,West,Furniture,Morgan,300.0,3.0,0.0,Completed,300.0
+1133,Customer 44,2025-02-10,South,Technology,Jordan,1200.5,5.0,0.05,Unknown,1140.475
+1134,Customer 84,2025-01-05,South,Furniture,Jordan,1200.5,4.0,0.0,Unknown,1200.5
+1135,Customer 30,2025-01-01,Unknown,Technology,Unknown,1200.5,3.0,0.0,Completed,1200.5
+1136,Customer 75,2025-01-01,South,Furniture,Alex,2450.75,5.0,0.0,Completed,2450.75
+1137,Customer 128,2025-03-03,Northeast,Furniture,Alex,1200.5,4.0,0.05,Unknown,1140.475
+1138,Customer 92,2025-01-05,South,Technology,Alex,300.0,2.0,0.0,Pending,300.0
+1139,Customer 129,2025-01-01,South,Furniture,Alex,1200.5,2.0,0.05,Pending,1140.475
+1140,Customer 121,2025-01-01,Northeast,Furniture,Casey,2450.75,2.0,0.0,Completed,2450.75
+1141,Customer 27,2025-01-01,West,Unknown,Alex,1200.5,2.0,0.0,Pending,1200.5
+1142,Customer 121,2025-02-10,West,Furniture,Casey,1200.5,3.0,0.05,Completed,1140.475
+1143,Customer 116,2025-01-01,Northeast,Office Supplies,Casey,1200.5,1.0,0.15,Pending,1020.425
+1144,Customer 3,2025-01-01,Unknown,Furniture,Alex,1200.5,4.0,0.0,Completed,1200.5
+1145,Customer 103,2025-01-01,South,Office Supplies,Taylor,300.0,3.0,0.0,Completed,300.0
+1146,Customer 137,2025-01-01,South,Furniture,Morgan,1200.5,2.0,0.15,Completed,1020.425
+1147,Customer 62,2025-01-15,Unknown,Office Supplies,Jordan,1200.5,3.0,0.05,Completed,1140.475
+1148,Customer 51,2025-01-15,South,Furniture,Casey,300.0,1.0,0.15,Pending,255.0
+1149,Customer 59,2025-02-10,South,Furniture,Unknown,300.0,3.0,0.1,Completed,270.0
+1150,Customer 118,2025-01-05,West,Technology,Unknown,1200.5,5.0,0.1,Completed,1080.45
+1151,Customer 96,2025-01-01,Unknown,Unknown,Morgan,1200.5,3.0,0.0,Pending,1200.5
+1152,Customer 113,2025-01-01,Midwest,Office Supplies,Unknown,2450.75,5.0,0.0,Completed,2450.75
+1153,Customer 62,2025-01-05,Midwest,Technology,Taylor,1200.5,5.0,0.0,Unknown,1200.5
+1154,Customer 52,2025-01-01,Midwest,Technology,Unknown,850.0,2.0,0.15,Pending,722.5
+1155,Customer 12,2025-01-05,West,Office Supplies,Jordan,1200.5,5.0,0.1,Unknown,1080.45
+1156,Customer 39,2025-02-10,West,Office Supplies,Jordan,2450.75,2.0,0.0,Completed,2450.75
+1157,Customer 130,2025-01-01,South,Technology,Casey,300.0,4.0,0.15,Completed,255.0
+1158,Customer 131,2025-01-01,South,Furniture,Alex,2450.75,4.0,0.0,Completed,2450.75
+1159,Customer 113,2025-03-03,South,Office Supplies,Taylor,300.0,2.0,0.0,Completed,300.0
+1160,Customer 101,2025-01-01,South,Furniture,Casey,300.0,2.0,0.1,Pending,270.0
+1161,Customer 113,2025-01-05,West,Technology,Taylor,2450.75,3.0,0.1,Completed,2205.675
+1162,Customer 81,2025-01-05,Midwest,Furniture,Alex,300.0,3.0,0.0,Unknown,300.0
+1163,Customer 113,2025-01-15,West,Furniture,Unknown,300.0,3.0,0.05,Pending,285.0
+1164,Customer 2,2025-03-03,South,Technology,Unknown,850.0,3.0,0.0,Unknown,850.0
+1165,Customer 130,2025-01-15,West,Office Supplies,Alex,1200.5,5.0,0.0,Pending,1200.5
+1166,Customer 54,2025-01-15,Midwest,Unknown,Casey,1200.5,1.0,0.0,Completed,1200.5
+1167,Customer 87,2025-01-15,Unknown,Technology,Alex,1200.5,3.0,0.0,Pending,1200.5
+1168,Customer 129,2025-01-01,West,Furniture,Morgan,1200.5,1.0,0.0,Completed,1200.5
+1169,Customer 147,2025-01-01,West,Office Supplies,Jordan,850.0,4.0,0.05,Pending,807.5
+1170,Customer 126,2025-02-10,West,Furniture,Casey,1200.5,1.0,0.05,Pending,1140.475
+1171,Customer 130,2025-02-10,Northeast,Furniture,Taylor,2450.75,4.0,0.0,Pending,2450.75
+1172,Customer 53,2025-01-15,South,Technology,Morgan,1200.5,2.0,0.0,Pending,1200.5
+1173,Customer 68,2025-03-03,West,Office Supplies,Casey,1200.5,2.0,0.05,Completed,1140.475
+1174,Customer 123,2025-01-05,West,Furniture,Alex,1200.5,2.0,0.1,Completed,1080.45
+1175,Customer 145,2025-01-01,West,Furniture,Alex,850.0,2.0,0.0,Pending,850.0
+1176,Customer 38,2025-03-03,Midwest,Office Supplies,Alex,850.0,5.0,0.15,Completed,722.5
+1177,Customer 24,2025-01-01,Unknown,Furniture,Alex,300.0,3.0,0.0,Pending,300.0
+1178,Customer 69,2025-01-01,Northeast,Unknown,Taylor,1200.5,5.0,0.15,Completed,1020.425
+1179,Customer 116,2025-01-01,South,Furniture,Morgan,2450.75,4.0,0.0,Completed,2450.75
+1180,Customer 98,2025-02-10,South,Technology,Unknown,1200.5,5.0,0.15,Unknown,1020.425
+1181,Customer 139,2025-01-05,Unknown,Furniture,Jordan,2450.75,1.0,0.0,Pending,2450.75
+1182,Customer 144,2025-01-05,Unknown,Unknown,Taylor,1200.5,4.0,0.1,Completed,1080.45
+1183,Customer 97,2025-01-01,Midwest,Furniture,Taylor,1200.5,2.0,0.15,Completed,1020.425
+1184,Customer 124,2025-01-01,West,Furniture,Unknown,1200.5,2.0,0.0,Pending,1200.5
+1185,Customer 70,2025-01-01,West,Technology,Unknown,1200.5,2.0,0.0,Completed,1200.5
+1186,Customer 93,2025-01-15,Midwest,Furniture,Jordan,850.0,3.0,0.0,Pending,850.0
+1187,Customer 3,2025-02-10,West,Furniture,Jordan,1200.5,4.0,0.05,Pending,1140.475
+1188,Customer 148,2025-02-10,West,Unknown,Unknown,850.0,4.0,0.0,Pending,850.0
+1189,Customer 147,2025-01-01,Northeast,Office Supplies,Alex,850.0,1.0,0.15,Completed,722.5
+1190,Customer 90,2025-03-03,South,Technology,Taylor,1200.5,3.0,0.0,Pending,1200.5
+1191,Customer 147,2025-01-15,Unknown,Technology,Casey,2450.75,2.0,0.0,Completed,2450.75
+1192,Customer 148,2025-01-01,Unknown,Technology,Jordan,2450.75,3.0,0.1,Unknown,2205.675
+1193,Customer 96,2025-01-15,Northeast,Furniture,Jordan,300.0,4.0,0.0,Completed,300.0
+1194,Customer 52,2025-01-15,West,Technology,Unknown,850.0,4.0,0.15,Completed,722.5
+1195,Customer 128,2025-01-15,Unknown,Furniture,Morgan,1200.5,1.0,0.05,Completed,1140.475
+1196,Customer 39,2025-01-01,South,Office Supplies,Casey,1200.5,5.0,0.1,Completed,1080.45
+1197,Customer 82,2025-02-10,South,Unknown,Casey,1200.5,2.0,0.05,Completed,1140.475
+1198,Customer 104,2025-02-10,South,Office Supplies,Jordan,2450.75,2.0,0.0,Pending,2450.75
+1199,Customer 129,2025-01-15,Unknown,Unknown,Alex,850.0,3.0,0.0,Completed,850.0
+1200,Customer 11,2025-03-03,Midwest,Furniture,Morgan,300.0,4.0,0.0,Completed,300.0
+1201,Customer 42,2025-01-05,Unknown,Technology,Casey,850.0,4.0,0.15,Pending,722.5
+1202,Customer 99,2025-01-01,Midwest,Furniture,Jordan,1200.5,2.0,0.0,Pending,1200.5
+1203,Customer 7,2025-01-05,Unknown,Technology,Casey,850.0,2.0,0.1,Pending,765.0
+1204,Customer 144,2025-03-03,South,Technology,Morgan,1200.5,5.0,0.0,Unknown,1200.5
+1205,Customer 90,2025-01-01,West,Unknown,Morgan,1200.5,4.0,0.15,Completed,1020.425
+1206,Customer 112,2025-01-15,South,Furniture,Taylor,300.0,2.0,0.0,Completed,300.0
+1207,Customer 60,2025-02-10,Unknown,Furniture,Unknown,1200.5,2.0,0.0,Completed,1200.5
+1208,Customer 113,2025-01-05,South,Unknown,Unknown,2450.75,1.0,0.0,Completed,2450.75
+1209,Customer 2,2025-01-01,Midwest,Technology,Jordan,850.0,5.0,0.05,Completed,807.5
+1210,Customer 129,2025-01-01,Midwest,Technology,Morgan,1200.5,3.0,0.0,Unknown,1200.5
+1211,Customer 48,2025-03-03,South,Technology,Taylor,850.0,4.0,0.0,Completed,850.0
+1212,Customer 140,2025-01-15,Northeast,Furniture,Taylor,1200.5,2.0,0.15,Completed,1020.425
+1213,Customer 37,2025-01-05,Unknown,Technology,Casey,2450.75,1.0,0.0,Pending,2450.75
+1214,Customer 9,2025-01-15,West,Office Supplies,Casey,1200.5,3.0,0.0,Pending,1200.5
+1215,Customer 99,2025-01-05,Midwest,Technology,Taylor,2450.75,3.0,0.15,Pending,2083.1375
+1216,Customer 147,2025-03-03,West,Technology,Casey,1200.5,2.0,0.0,Pending,1200.5
+1217,Customer 48,2025-03-03,West,Unknown,Morgan,2450.75,2.0,0.1,Pending,2205.675
+1218,Customer 131,2025-01-01,Midwest,Technology,Alex,300.0,3.0,0.15,Completed,255.0
+1219,Customer 148,2025-01-15,Northeast,Furniture,Morgan,1200.5,1.0,0.1,Completed,1080.45
+1220,Customer 54,2025-01-01,Northeast,Unknown,Taylor,1200.5,3.0,0.05,Pending,1140.475
+1221,Customer 120,2025-01-01,South,Technology,Taylor,1200.5,2.0,0.15,Completed,1020.425
+1222,Customer 116,2025-01-15,West,Unknown,Morgan,300.0,1.0,0.1,Completed,270.0
+1223,Customer 75,2025-01-01,South,Furniture,Casey,850.0,5.0,0.0,Completed,850.0
+1224,Customer 113,2025-01-01,West,Office Supplies,Casey,1200.5,4.0,0.0,Completed,1200.5
+1225,Customer 104,2025-02-10,Unknown,Furniture,Unknown,1200.5,3.0,0.05,Completed,1140.475
+1226,Customer 84,2025-02-10,Unknown,Furniture,Taylor,2450.75,2.0,0.15,Pending,2083.1375
+1227,Customer 112,2025-02-10,West,Unknown,Jordan,1200.5,3.0,0.15,Pending,1020.425
+1228,Customer 99,2025-02-10,Unknown,Furniture,Unknown,850.0,3.0,0.15,Pending,722.5
+1229,Customer 93,2025-01-05,West,Technology,Casey,1200.5,3.0,0.05,Completed,1140.475
+1230,Customer 146,2025-02-10,Unknown,Technology,Morgan,1200.5,1.0,0.15,Completed,1020.425
+1231,Customer 128,2025-01-01,South,Office Supplies,Casey,1200.5,4.0,0.0,Completed,1200.5
+1232,Customer 110,2025-03-03,Unknown,Office Supplies,Morgan,1200.5,5.0,0.1,Completed,1080.45
+1233,Customer 82,2025-03-03,South,Technology,Unknown,1200.5,2.0,0.0,Completed,1200.5
+1234,Customer 54,2025-01-05,Midwest,Furniture,Taylor,1200.5,2.0,0.0,Pending,1200.5
+1235,Customer 68,2025-02-10,South,Technology,Casey,1200.5,3.0,0.1,Completed,1080.45
+1236,Customer 33,2025-02-10,Midwest,Furniture,Morgan,2450.75,4.0,0.0,Completed,2450.75
+1237,Customer 142,2025-02-10,Northeast,Office Supplies,Taylor,300.0,3.0,0.05,Completed,285.0
+1238,Customer 21,2025-01-01,South,Technology,Jordan,1200.5,3.0,0.1,Unknown,1080.45
+1239,Customer 48,2025-01-15,Northeast,Unknown,Morgan,1200.5,2.0,0.0,Completed,1200.5
+1240,Customer 148,2025-01-01,West,Office Supplies,Unknown,300.0,1.0,0.0,Pending,300.0
+1241,Customer 128,2025-01-15,West,Office Supplies,Jordan,1200.5,4.0,0.0,Completed,1200.5
+1242,Customer 136,2025-02-10,South,Furniture,Jordan,1200.5,4.0,0.05,Pending,1140.475
+1243,Customer 135,2025-02-10,Unknown,Furniture,Alex,2450.75,1.0,0.15,Pending,2083.1375
+1244,Customer 145,2025-01-01,South,Furniture,Casey,1200.5,3.0,0.0,Pending,1200.5
+1245,Customer 128,2025-01-01,Northeast,Unknown,Morgan,1200.5,3.0,0.15,Completed,1020.425
+1246,Customer 33,2025-01-15,Midwest,Furniture,Jordan,850.0,3.0,0.0,Completed,850.0
+1247,Customer 115,2025-03-03,West,Furniture,Alex,850.0,3.0,0.0,Pending,850.0
+1248,Customer 119,2025-01-15,Unknown,Technology,Unknown,1200.5,4.0,0.1,Completed,1080.45
+1249,Customer 22,2025-01-01,West,Technology,Taylor,1200.5,2.0,0.15,Pending,1020.425
+1250,Customer 38,2025-01-01,Midwest,Office Supplies,Morgan,2450.75,1.0,0.0,Completed,2450.75
+1251,Customer 109,2025-01-01,Unknown,Furniture,Jordan,300.0,3.0,0.1,Completed,270.0
+1252,Customer 51,2025-01-01,Unknown,Technology,Casey,850.0,2.0,0.1,Completed,765.0
+1253,Customer 8,2025-01-05,Northeast,Furniture,Alex,300.0,3.0,0.1,Pending,270.0
+1254,Customer 27,2025-01-01,Northeast,Furniture,Jordan,2450.75,3.0,0.1,Pending,2205.675
+1255,Customer 27,2025-01-05,South,Office Supplies,Casey,1200.5,5.0,0.0,Completed,1200.5
+1256,Customer 21,2025-03-03,South,Technology,Jordan,1200.5,3.0,0.0,Pending,1200.5
+1257,Customer 30,2025-01-15,West,Furniture,Morgan,300.0,1.0,0.0,Pending,300.0
+1258,Customer 97,2025-01-01,West,Unknown,Morgan,1200.5,5.0,0.0,Unknown,1200.5
+1259,Customer 28,2025-01-15,South,Technology,Morgan,1200.5,5.0,0.0,Pending,1200.5
+1260,Customer 111,2025-01-05,West,Unknown,Unknown,1200.5,2.0,0.0,Completed,1200.5
+1261,Customer 61,2025-01-01,South,Office Supplies,Unknown,300.0,4.0,0.05,Pending,285.0
+1262,Customer 48,2025-01-15,Northeast,Office Supplies,Alex,1200.5,2.0,0.0,Completed,1200.5
+1263,Customer 147,2025-01-01,Midwest,Office Supplies,Morgan,300.0,4.0,0.0,Pending,300.0
+1264,Customer 4,2025-02-10,Northeast,Technology,Casey,1200.5,4.0,0.0,Pending,1200.5
+1265,Customer 35,2025-01-05,West,Unknown,Jordan,1200.5,1.0,0.05,Pending,1140.475
+1266,Customer 49,2025-01-15,West,Technology,Taylor,2450.75,3.0,0.05,Completed,2328.2125
+1267,Customer 17,2025-01-05,Northeast,Technology,Casey,1200.5,1.0,0.0,Completed,1200.5
+1268,Customer 46,2025-01-05,South,Furniture,Unknown,1200.5,3.0,0.15,Unknown,1020.425
+1269,Customer 117,2025-01-01,West,Furniture,Unknown,850.0,4.0,0.05,Pending,807.5
+1270,Customer 6,2025-01-01,West,Furniture,Casey,850.0,5.0,0.1,Unknown,765.0
+1271,Customer 99,2025-02-10,Midwest,Office Supplies,Unknown,1200.5,3.0,0.0,Completed,1200.5
+1272,Customer 124,2025-01-01,West,Technology,Morgan,2450.75,2.0,0.1,Completed,2205.675
+1273,Customer 37,2025-01-05,Unknown,Unknown,Alex,1200.5,3.0,0.0,Pending,1200.5
+1274,Customer 24,2025-01-15,South,Office Supplies,Jordan,300.0,1.0,0.0,Completed,300.0
+1275,Customer 93,2025-03-03,West,Technology,Alex,1200.5,2.0,0.05,Completed,1140.475
+1276,Customer 46,2025-01-05,Midwest,Furniture,Jordan,2450.75,3.0,0.05,Pending,2328.2125
+1277,Customer 95,2025-01-05,South,Office Supplies,Jordan,300.0,3.0,0.1,Completed,270.0
+1278,Customer 99,2025-02-10,West,Office Supplies,Alex,850.0,3.0,0.0,Completed,850.0
+1279,Customer 116,2025-01-01,South,Technology,Casey,850.0,3.0,0.1,Completed,765.0
+1280,Customer 67,2025-03-03,West,Furniture,Jordan,300.0,3.0,0.15,Pending,255.0
+1281,Customer 128,2025-01-01,South,Technology,Alex,1200.5,2.0,0.1,Pending,1080.45
+1282,Customer 18,2025-01-01,South,Unknown,Jordan,850.0,2.0,0.0,Completed,850.0
+1283,Customer 25,2025-01-15,Unknown,Furniture,Taylor,1200.5,2.0,0.1,Pending,1080.45
+1284,Customer 54,2025-03-03,South,Furniture,Casey,1200.5,2.0,0.0,Completed,1200.5
+1285,Customer 58,2025-01-01,West,Office Supplies,Morgan,300.0,4.0,0.0,Pending,300.0
+1286,Customer 67,2025-01-15,West,Technology,Jordan,300.0,5.0,0.0,Completed,300.0
+1287,Customer 104,2025-01-01,Midwest,Technology,Taylor,850.0,2.0,0.15,Completed,722.5
+1288,Customer 24,2025-01-15,West,Technology,Morgan,1200.5,3.0,0.1,Completed,1080.45
+1289,Customer 114,2025-01-01,Northeast,Furniture,Morgan,1200.5,3.0,0.1,Completed,1080.45
+1290,Customer 32,2025-02-10,West,Technology,Jordan,1200.5,2.0,0.15,Pending,1020.425
+1291,Customer 86,2025-02-10,West,Office Supplies,Alex,2450.75,3.0,0.0,Pending,2450.75
+1292,Customer 127,2025-02-10,South,Technology,Jordan,2450.75,2.0,0.05,Pending,2328.2125
+1293,Customer 130,2025-01-01,South,Unknown,Taylor,1200.5,3.0,0.1,Pending,1080.45
+1294,Customer 17,2025-02-10,West,Technology,Morgan,850.0,4.0,0.05,Unknown,807.5
+1295,Customer 104,2025-03-03,Unknown,Technology,Jordan,850.0,1.0,0.15,Pending,722.5
+1296,Customer 137,2025-01-01,South,Furniture,Alex,850.0,1.0,0.0,Unknown,850.0
+1297,Customer 43,2025-01-15,Midwest,Furniture,Jordan,1200.5,2.0,0.0,Completed,1200.5
+1298,Customer 39,2025-01-15,West,Office Supplies,Casey,2450.75,2.0,0.0,Completed,2450.75
+1299,Customer 26,2025-01-01,West,Unknown,Alex,1200.5,2.0,0.15,Pending,1020.425
+1300,Customer 99,2025-02-10,South,Furniture,Taylor,1200.5,3.0,0.0,Completed,1200.5
+1301,Customer 50,2025-02-10,West,Technology,Morgan,1200.5,2.0,0.0,Pending,1200.5
+1302,Customer 13,2025-01-05,Northeast,Office Supplies,Jordan,1200.5,1.0,0.05,Unknown,1140.475
+1303,Customer 60,2025-01-01,South,Furniture,Alex,850.0,3.0,0.0,Unknown,850.0
+1304,Customer 135,2025-03-03,West,Technology,Casey,1200.5,2.0,0.0,Pending,1200.5
+1305,Customer 57,2025-01-15,West,Furniture,Alex,1200.5,3.0,0.0,Completed,1200.5
+1306,Customer 36,2025-01-05,South,Technology,Unknown,2450.75,3.0,0.0,Completed,2450.75
+1307,Customer 20,2025-01-05,South,Furniture,Casey,300.0,2.0,0.05,Unknown,285.0
+1308,Customer 65,2025-01-01,South,Office Supplies,Taylor,300.0,3.0,0.1,Pending,270.0
+1309,Customer 8,2025-01-15,West,Technology,Morgan,1200.5,1.0,0.05,Pending,1140.475
+1310,Customer 144,2025-01-01,West,Unknown,Taylor,300.0,4.0,0.05,Pending,285.0
+1311,Customer 142,2025-03-03,Northeast,Technology,Jordan,1200.5,4.0,0.15,Completed,1020.425
+1312,Customer 115,2025-01-05,Unknown,Unknown,Alex,850.0,5.0,0.15,Completed,722.5
+1313,Customer 143,2025-01-05,South,Unknown,Unknown,2450.75,3.0,0.05,Unknown,2328.2125
+1314,Customer 92,2025-01-01,West,Technology,Casey,1200.5,2.0,0.05,Pending,1140.475
+1315,Customer 98,2025-03-03,West,Unknown,Casey,2450.75,3.0,0.05,Pending,2328.2125
+1316,Customer 66,2025-01-05,South,Technology,Alex,2450.75,1.0,0.0,Pending,2450.75
+1317,Customer 32,2025-03-03,Midwest,Technology,Unknown,850.0,3.0,0.15,Unknown,722.5
+1318,Customer 86,2025-01-15,South,Technology,Alex,1200.5,4.0,0.05,Completed,1140.475
+1319,Customer 51,2025-02-10,Unknown,Technology,Jordan,300.0,3.0,0.0,Pending,300.0
+1320,Customer 63,2025-01-05,West,Unknown,Taylor,850.0,1.0,0.0,Completed,850.0
+1321,Customer 125,2025-01-01,Midwest,Technology,Casey,1200.5,4.0,0.0,Pending,1200.5
+1322,Customer 150,2025-01-15,West,Technology,Jordan,1200.5,3.0,0.0,Pending,1200.5
+1323,Customer 58,2025-03-03,Northeast,Unknown,Taylor,1200.5,3.0,0.1,Completed,1080.45
+1324,Customer 58,2025-01-01,South,Unknown,Jordan,1200.5,4.0,0.1,Completed,1080.45
+1325,Customer 86,2025-01-15,South,Furniture,Unknown,1200.5,2.0,0.1,Unknown,1080.45
+1326,Customer 49,2025-01-05,South,Furniture,Casey,850.0,2.0,0.0,Unknown,850.0
+1327,Customer 70,2025-03-03,Unknown,Furniture,Alex,1200.5,5.0,0.0,Pending,1200.5
+1328,Customer 15,2025-02-10,West,Office Supplies,Alex,1200.5,5.0,0.0,Completed,1200.5
+1329,Customer 54,2025-01-15,South,Furniture,Taylor,2450.75,4.0,0.0,Completed,2450.75
+1330,Customer 101,2025-01-05,South,Technology,Morgan,2450.75,1.0,0.0,Completed,2450.75
+1331,Customer 8,2025-01-01,West,Furniture,Unknown,1200.5,2.0,0.0,Unknown,1200.5
+1332,Customer 53,2025-01-01,South,Furniture,Taylor,1200.5,1.0,0.1,Completed,1080.45
+1333,Customer 60,2025-03-03,Northeast,Unknown,Morgan,2450.75,1.0,0.1,Unknown,2205.675
+1334,Customer 108,2025-01-15,West,Furniture,Jordan,1200.5,4.0,0.1,Completed,1080.45
+1335,Customer 5,2025-01-15,West,Unknown,Unknown,2450.75,1.0,0.05,Unknown,2328.2125
+1336,Customer 103,2025-02-10,West,Unknown,Jordan,1200.5,2.0,0.05,Pending,1140.475
+1337,Customer 6,2025-02-10,West,Office Supplies,Casey,1200.5,3.0,0.15,Unknown,1020.425
+1338,Customer 109,2025-01-01,Northeast,Furniture,Unknown,300.0,5.0,0.15,Pending,255.0
+1339,Customer 116,2025-01-01,West,Technology,Morgan,1200.5,3.0,0.15,Unknown,1020.425
+1340,Customer 94,2025-01-01,Midwest,Technology,Casey,850.0,1.0,0.05,Pending,807.5
+1341,Customer 47,2025-01-05,South,Technology,Alex,2450.75,3.0,0.05,Completed,2328.2125
+1342,Customer 99,2025-01-05,Midwest,Unknown,Morgan,2450.75,2.0,0.15,Completed,2083.1375
+1343,Customer 55,2025-01-01,South,Technology,Taylor,1200.5,2.0,0.15,Completed,1020.425
+1344,Customer 52,2025-01-01,Northeast,Office Supplies,Alex,850.0,1.0,0.0,Completed,850.0
+1345,Customer 144,2025-01-01,Midwest,Unknown,Alex,1200.5,4.0,0.15,Completed,1020.425
+1346,Customer 13,2025-01-01,West,Office Supplies,Taylor,850.0,3.0,0.0,Completed,850.0
+1347,Customer 114,2025-01-01,South,Technology,Unknown,300.0,4.0,0.0,Unknown,300.0
+1348,Customer 124,2025-03-03,South,Technology,Alex,2450.75,4.0,0.05,Completed,2328.2125
+1349,Customer 106,2025-01-01,Midwest,Technology,Morgan,2450.75,2.0,0.15,Completed,2083.1375
+1350,Customer 147,2025-02-10,Midwest,Technology,Casey,300.0,1.0,0.05,Completed,285.0
+1351,Customer 145,2025-01-01,Northeast,Unknown,Alex,1200.5,5.0,0.05,Completed,1140.475
+1352,Customer 120,2025-01-01,South,Unknown,Morgan,1200.5,2.0,0.05,Unknown,1140.475
+1353,Customer 63,2025-01-01,Midwest,Unknown,Jordan,300.0,2.0,0.0,Completed,300.0
+1354,Customer 19,2025-01-05,Unknown,Technology,Morgan,1200.5,1.0,0.1,Completed,1080.45
+1355,Customer 92,2025-02-10,Midwest,Technology,Casey,1200.5,3.0,0.15,Pending,1020.425
+1356,Customer 58,2025-02-10,West,Technology,Morgan,2450.75,3.0,0.1,Pending,2205.675
+1357,Customer 90,2025-01-01,West,Furniture,Taylor,1200.5,3.0,0.1,Completed,1080.45
+1358,Customer 117,2025-03-03,Unknown,Furniture,Casey,850.0,5.0,0.1,Completed,765.0
+1359,Customer 62,2025-01-01,Unknown,Technology,Unknown,1200.5,2.0,0.05,Pending,1140.475
+1360,Customer 23,2025-01-15,West,Technology,Jordan,1200.5,1.0,0.0,Pending,1200.5
+1361,Customer 127,2025-03-03,West,Furniture,Taylor,2450.75,2.0,0.05,Unknown,2328.2125
+1362,Customer 137,2025-03-03,South,Technology,Unknown,300.0,4.0,0.05,Completed,285.0
+1363,Customer 140,2025-02-10,South,Technology,Morgan,1200.5,3.0,0.1,Completed,1080.45
+1364,Customer 129,2025-03-03,West,Technology,Casey,2450.75,3.0,0.05,Completed,2328.2125
+1365,Customer 58,2025-01-01,Northeast,Furniture,Jordan,1200.5,2.0,0.1,Completed,1080.45
+1366,Customer 122,2025-01-01,Unknown,Unknown,Taylor,1200.5,2.0,0.0,Pending,1200.5
+1367,Customer 1,2025-01-05,Northeast,Technology,Unknown,1200.5,5.0,0.15,Completed,1020.425
+1368,Customer 34,2025-01-01,Midwest,Furniture,Unknown,850.0,3.0,0.1,Completed,765.0
+1369,Customer 96,2025-01-01,Midwest,Technology,Jordan,2450.75,5.0,0.0,Completed,2450.75
+1370,Customer 126,2025-02-10,Northeast,Furniture,Morgan,1200.5,5.0,0.15,Completed,1020.425
+1371,Customer 118,2025-01-01,Midwest,Unknown,Jordan,300.0,4.0,0.0,Unknown,300.0
+1372,Customer 48,2025-01-05,South,Furniture,Unknown,2450.75,5.0,0.1,Completed,2205.675
+1373,Customer 89,2025-01-15,West,Unknown,Alex,300.0,3.0,0.1,Completed,270.0
+1374,Customer 117,2025-02-10,Midwest,Furniture,Taylor,300.0,4.0,0.0,Pending,300.0
+1375,Customer 129,2025-01-15,South,Unknown,Jordan,1200.5,1.0,0.0,Unknown,1200.5
+1376,Customer 16,2025-02-10,Midwest,Furniture,Unknown,2450.75,5.0,0.1,Completed,2205.675
+1377,Customer 69,2025-01-01,West,Furniture,Morgan,1200.5,5.0,0.0,Completed,1200.5
+1378,Customer 22,2025-03-03,South,Furniture,Unknown,1200.5,1.0,0.05,Completed,1140.475
+1379,Customer 93,2025-01-01,West,Furniture,Morgan,1200.5,5.0,0.15,Completed,1020.425
+1380,Customer 76,2025-01-01,West,Technology,Jordan,1200.5,1.0,0.15,Completed,1020.425
+1381,Customer 144,2025-01-15,South,Technology,Morgan,1200.5,4.0,0.15,Pending,1020.425
+1382,Customer 86,2025-01-01,South,Office Supplies,Casey,2450.75,3.0,0.05,Completed,2328.2125
+1383,Customer 29,2025-03-03,South,Furniture,Casey,2450.75,1.0,0.0,Pending,2450.75
+1384,Customer 69,2025-02-10,South,Office Supplies,Casey,300.0,2.0,0.0,Unknown,300.0
+1385,Customer 47,2025-03-03,South,Office Supplies,Alex,1200.5,1.0,0.0,Unknown,1200.5
+1386,Customer 94,2025-01-05,South,Unknown,Jordan,1200.5,5.0,0.1,Pending,1080.45
+1387,Customer 144,2025-03-03,South,Technology,Unknown,2450.75,3.0,0.15,Pending,2083.1375
+1388,Customer 85,2025-01-05,Midwest,Unknown,Unknown,300.0,3.0,0.0,Pending,300.0
+1389,Customer 39,2025-03-03,West,Technology,Alex,1200.5,4.0,0.0,Completed,1200.5
+1390,Customer 100,2025-01-05,South,Technology,Morgan,850.0,2.0,0.1,Completed,765.0
+1391,Customer 33,2025-01-15,Unknown,Furniture,Alex,1200.5,4.0,0.05,Completed,1140.475
+1392,Customer 101,2025-01-01,Midwest,Technology,Morgan,1200.5,2.0,0.05,Pending,1140.475
+1393,Customer 23,2025-01-01,Midwest,Furniture,Morgan,2450.75,3.0,0.0,Pending,2450.75
+1394,Customer 10,2025-01-01,West,Technology,Taylor,1200.5,3.0,0.1,Completed,1080.45
+1395,Customer 69,2025-01-01,South,Unknown,Unknown,850.0,1.0,0.15,Completed,722.5
+1396,Customer 100,2025-02-10,Northeast,Technology,Casey,850.0,3.0,0.0,Completed,850.0
+1397,Customer 34,2025-03-03,Northeast,Unknown,Morgan,300.0,2.0,0.1,Completed,270.0
+1398,Customer 138,2025-01-01,Midwest,Office Supplies,Taylor,1200.5,4.0,0.05,Pending,1140.475
+1399,Customer 147,2025-02-10,West,Office Supplies,Unknown,300.0,5.0,0.0,Pending,300.0
+1400,Customer 96,2025-02-10,West,Technology,Casey,1200.5,2.0,0.0,Completed,1200.5
+1401,Customer 1,2025-01-05,West,Technology,Morgan,1200.5,5.0,0.0,Completed,1200.5
+1402,Customer 69,2025-01-01,Northeast,Unknown,Morgan,1200.5,3.0,0.0,Completed,1200.5
+1403,Customer 4,2025-01-15,Midwest,Furniture,Alex,1200.5,2.0,0.0,Completed,1200.5
+1404,Customer 16,2025-01-15,South,Unknown,Alex,1200.5,4.0,0.1,Pending,1080.45
+1405,Customer 24,2025-01-01,Northeast,Furniture,Unknown,1200.5,1.0,0.15,Completed,1020.425
+1406,Customer 80,2025-01-15,Midwest,Office Supplies,Casey,1200.5,5.0,0.0,Unknown,1200.5
+1407,Customer 2,2025-03-03,Midwest,Technology,Morgan,300.0,3.0,0.1,Completed,270.0
+1408,Customer 128,2025-01-15,South,Technology,Unknown,1200.5,4.0,0.15,Completed,1020.425
+1409,Customer 84,2025-01-01,South,Furniture,Unknown,300.0,3.0,0.1,Unknown,270.0
+1410,Customer 140,2025-01-15,South,Unknown,Jordan,1200.5,3.0,0.1,Completed,1080.45
+1411,Customer 124,2025-03-03,West,Office Supplies,Alex,300.0,4.0,0.0,Pending,300.0
+1412,Customer 33,2025-01-05,South,Furniture,Casey,850.0,4.0,0.15,Pending,722.5
+1413,Customer 101,2025-01-01,Unknown,Unknown,Morgan,300.0,4.0,0.0,Completed,300.0
+1414,Customer 12,2025-01-05,South,Technology,Unknown,1200.5,2.0,0.0,Pending,1200.5
+1415,Customer 67,2025-01-05,Unknown,Technology,Morgan,850.0,4.0,0.15,Completed,722.5
+1416,Customer 65,2025-01-05,Northeast,Furniture,Jordan,300.0,5.0,0.0,Unknown,300.0
+1417,Customer 74,2025-02-10,West,Technology,Casey,1200.5,3.0,0.05,Completed,1140.475
+1418,Customer 43,2025-01-01,Midwest,Furniture,Unknown,1200.5,2.0,0.1,Completed,1080.45
+1419,Customer 44,2025-02-10,Unknown,Office Supplies,Morgan,1200.5,4.0,0.0,Completed,1200.5
+1420,Customer 29,2025-01-01,South,Furniture,Alex,2450.75,2.0,0.15,Completed,2083.1375
+1421,Customer 141,2025-01-05,South,Office Supplies,Jordan,1200.5,2.0,0.1,Pending,1080.45
+1422,Customer 12,2025-01-01,Unknown,Unknown,Casey,1200.5,3.0,0.0,Completed,1200.5
+1423,Customer 95,2025-01-01,South,Technology,Jordan,850.0,3.0,0.05,Pending,807.5
+1424,Customer 46,2025-03-03,West,Furniture,Alex,1200.5,1.0,0.0,Completed,1200.5
+1425,Customer 130,2025-03-03,West,Furniture,Casey,2450.75,1.0,0.15,Unknown,2083.1375
+1426,Customer 35,2025-01-15,South,Furniture,Jordan,1200.5,3.0,0.1,Pending,1080.45
+1427,Customer 81,2025-01-01,West,Office Supplies,Taylor,850.0,2.0,0.15,Unknown,722.5
+1428,Customer 90,2025-01-01,South,Technology,Alex,2450.75,2.0,0.1,Completed,2205.675
+1429,Customer 8,2025-02-10,Northeast,Furniture,Alex,1200.5,2.0,0.0,Completed,1200.5
+1430,Customer 93,2025-01-05,Unknown,Unknown,Alex,850.0,1.0,0.05,Pending,807.5
+1431,Customer 90,2025-01-15,Midwest,Furniture,Taylor,300.0,2.0,0.0,Completed,300.0
+1432,Customer 115,2025-03-03,West,Office Supplies,Taylor,1200.5,1.0,0.0,Completed,1200.5
+1433,Customer 105,2025-02-10,South,Unknown,Morgan,1200.5,5.0,0.15,Completed,1020.425
+1434,Customer 135,2025-02-10,South,Furniture,Unknown,2450.75,4.0,0.05,Completed,2328.2125
+1435,Customer 58,2025-01-05,West,Technology,Jordan,1200.5,2.0,0.1,Pending,1080.45
+1436,Customer 114,2025-01-01,Unknown,Office Supplies,Morgan,1200.5,2.0,0.1,Pending,1080.45
+1437,Customer 75,2025-03-03,West,Office Supplies,Jordan,1200.5,3.0,0.0,Pending,1200.5
+1438,Customer 120,2025-01-01,Unknown,Technology,Unknown,1200.5,3.0,0.1,Completed,1080.45
+1439,Customer 21,2025-02-10,South,Furniture,Taylor,2450.75,4.0,0.15,Unknown,2083.1375
+1440,Customer 138,2025-01-05,Unknown,Office Supplies,Unknown,2450.75,2.0,0.0,Completed,2450.75
+1441,Customer 101,2025-01-01,West,Office Supplies,Taylor,2450.75,1.0,0.0,Completed,2450.75
+1442,Customer 99,2025-01-01,South,Furniture,Unknown,1200.5,1.0,0.0,Pending,1200.5
+1443,Customer 36,2025-03-03,West,Furniture,Morgan,2450.75,5.0,0.05,Unknown,2328.2125
+1444,Customer 96,2025-01-01,West,Unknown,Casey,1200.5,5.0,0.1,Completed,1080.45
+1445,Customer 37,2025-02-10,Unknown,Technology,Morgan,2450.75,1.0,0.15,Completed,2083.1375
+1446,Customer 12,2025-01-01,West,Technology,Jordan,1200.5,3.0,0.05,Completed,1140.475
+1447,Customer 113,2025-01-01,Unknown,Technology,Morgan,1200.5,2.0,0.0,Completed,1200.5
+1448,Customer 13,2025-01-01,South,Unknown,Alex,2450.75,3.0,0.15,Completed,2083.1375
+1449,Customer 23,2025-02-10,Unknown,Furniture,Jordan,850.0,5.0,0.15,Pending,722.5
+1450,Customer 99,2025-02-10,South,Furniture,Unknown,1200.5,4.0,0.15,Pending,1020.425
+1451,Customer 105,2025-01-01,Midwest,Furniture,Jordan,1200.5,1.0,0.0,Completed,1200.5
+1452,Customer 30,2025-01-15,West,Technology,Casey,2450.75,5.0,0.15,Completed,2083.1375
+1453,Customer 17,2025-01-01,Midwest,Furniture,Taylor,300.0,5.0,0.1,Pending,270.0
+1454,Customer 113,2025-03-03,Unknown,Technology,Unknown,2450.75,2.0,0.15,Unknown,2083.1375
+1455,Customer 62,2025-01-05,South,Technology,Jordan,1200.5,1.0,0.0,Pending,1200.5
+1456,Customer 84,2025-01-01,West,Technology,Unknown,850.0,2.0,0.15,Completed,722.5
+1457,Customer 112,2025-01-15,Unknown,Unknown,Unknown,1200.5,1.0,0.0,Pending,1200.5
+1458,Customer 86,2025-01-05,West,Technology,Unknown,850.0,2.0,0.0,Completed,850.0
+1459,Customer 141,2025-01-15,Northeast,Technology,Taylor,1200.5,3.0,0.0,Pending,1200.5
+1460,Customer 19,2025-01-01,Unknown,Furniture,Morgan,1200.5,4.0,0.1,Completed,1080.45
+1461,Customer 100,2025-02-10,Midwest,Technology,Unknown,1200.5,4.0,0.1,Unknown,1080.45
+1462,Customer 140,2025-01-01,West,Office Supplies,Alex,2450.75,1.0,0.05,Completed,2328.2125
+1463,Customer 147,2025-01-01,Midwest,Technology,Casey,1200.5,2.0,0.0,Pending,1200.5
+1464,Customer 76,2025-01-05,West,Technology,Taylor,1200.5,3.0,0.15,Completed,1020.425
+1465,Customer 9,2025-01-05,Unknown,Furniture,Jordan,2450.75,5.0,0.0,Pending,2450.75
+1466,Customer 28,2025-01-05,South,Furniture,Taylor,300.0,5.0,0.05,Unknown,285.0
+1467,Customer 128,2025-01-05,West,Furniture,Jordan,2450.75,1.0,0.0,Pending,2450.75
+1468,Customer 52,2025-01-05,Unknown,Technology,Taylor,850.0,2.0,0.0,Unknown,850.0
+1469,Customer 83,2025-01-15,Midwest,Furniture,Jordan,850.0,2.0,0.05,Completed,807.5
+1470,Customer 111,2025-01-01,Northeast,Furniture,Unknown,300.0,3.0,0.1,Completed,270.0
+1471,Customer 144,2025-01-01,Northeast,Technology,Morgan,1200.5,2.0,0.15,Unknown,1020.425
+1472,Customer 117,2025-02-10,South,Unknown,Jordan,1200.5,2.0,0.05,Completed,1140.475
+1473,Customer 69,2025-02-10,West,Furniture,Jordan,2450.75,1.0,0.0,Completed,2450.75
+1474,Customer 99,2025-01-01,Midwest,Office Supplies,Alex,850.0,1.0,0.1,Completed,765.0
+1475,Customer 140,2025-01-01,South,Office Supplies,Jordan,1200.5,5.0,0.0,Unknown,1200.5
+1476,Customer 25,2025-02-10,Midwest,Furniture,Alex,300.0,1.0,0.1,Pending,270.0
+1477,Customer 123,2025-02-10,West,Unknown,Casey,1200.5,1.0,0.15,Completed,1020.425
+1478,Customer 53,2025-01-15,Unknown,Furniture,Unknown,850.0,1.0,0.15,Completed,722.5
+1479,Customer 144,2025-03-03,Unknown,Technology,Alex,300.0,5.0,0.0,Unknown,300.0
+1480,Customer 57,2025-01-01,Northeast,Office Supplies,Morgan,2450.75,3.0,0.0,Pending,2450.75
+1481,Customer 39,2025-01-05,Unknown,Furniture,Unknown,1200.5,3.0,0.1,Completed,1080.45
+1482,Customer 109,2025-03-03,Unknown,Furniture,Alex,850.0,3.0,0.15,Pending,722.5
+1483,Customer 42,2025-01-01,South,Furniture,Unknown,850.0,3.0,0.05,Pending,807.5
+1484,Customer 142,2025-02-10,Northeast,Technology,Unknown,2450.75,1.0,0.15,Unknown,2083.1375
+1485,Customer 122,2025-03-03,South,Office Supplies,Unknown,1200.5,3.0,0.05,Unknown,1140.475
+1486,Customer 133,2025-01-01,West,Furniture,Casey,1200.5,5.0,0.1,Completed,1080.45
+1487,Customer 75,2025-01-01,South,Technology,Morgan,1200.5,3.0,0.15,Unknown,1020.425
+1488,Customer 146,2025-01-05,South,Unknown,Taylor,850.0,2.0,0.15,Pending,722.5
+1489,Customer 76,2025-01-05,West,Furniture,Taylor,1200.5,3.0,0.1,Pending,1080.45
+1490,Customer 9,2025-01-01,South,Technology,Alex,850.0,3.0,0.15,Pending,722.5
+1491,Customer 74,2025-01-01,South,Unknown,Unknown,1200.5,5.0,0.05,Completed,1140.475
+1492,Customer 145,2025-02-10,West,Unknown,Alex,300.0,3.0,0.15,Completed,255.0
+1493,Customer 7,2025-01-05,Northeast,Furniture,Casey,850.0,2.0,0.0,Completed,850.0
+1494,Customer 141,2025-01-01,West,Furniture,Casey,1200.5,5.0,0.0,Completed,1200.5
+1495,Customer 137,2025-03-03,West,Furniture,Jordan,1200.5,1.0,0.05,Completed,1140.475
+1496,Customer 27,2025-01-01,Unknown,Unknown,Casey,300.0,4.0,0.0,Unknown,300.0
+1497,Customer 122,2025-01-15,Midwest,Furniture,Jordan,300.0,3.0,0.1,Pending,270.0
+1498,Customer 5,2025-01-15,West,Technology,Morgan,1200.5,4.0,0.05,Completed,1140.475
+1499,Customer 29,2025-01-01,West,Unknown,Alex,1200.5,5.0,0.0,Completed,1200.5
+1500,Customer 83,2025-02-10,West,Unknown,Morgan,2450.75,5.0,0.0,Completed,2450.75
