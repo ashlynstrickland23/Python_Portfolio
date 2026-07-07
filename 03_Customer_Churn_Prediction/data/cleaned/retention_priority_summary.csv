@@ -1,0 +1,6 @@
+retention_priority,total_customers,churned_customers,average_churn_probability,total_annual_revenue,estimated_revenue_at_risk,churn_rate
+Monitor and Nurture,4043,1265,0.31673262428889437,9118834.92,2890581.96,0.3129
+Standard Retention Campaign,1639,846,0.5152959121415498,2858006.4,1474967.4,0.5162
+High Priority Retention Campaign,749,363,0.48542056074766354,2263700.76,1089934.68,0.4846
+Low Priority,3424,462,0.12621495327102805,7576019.16,1025062.2,0.1349
+Immediate Executive Outreach,145,90,0.6664827586206896,437815.08,270970.8,0.6207

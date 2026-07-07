@@ -1,0 +1,23 @@
+feature,importance
+categorical__contract_type_Month to Month,0.1215
+numeric__total_risk_flags,0.1128
+numeric__tenure_months,0.0989
+numeric__customer_lifetime_value,0.0943
+numeric__last_login_days_ago,0.0924
+numeric__satisfaction_score,0.0893
+numeric__product_usage_score,0.0822
+numeric__monthly_revenue,0.0605
+numeric__annual_revenue,0.0587
+categorical__contract_type_Two Year,0.033
+numeric__support_tickets_last_90_days,0.0327
+categorical__contract_type_Annual,0.0279
+numeric__discount_percent,0.0223
+numeric__late_payments_last_12_months,0.0199
+categorical__region_West,0.0075
+categorical__customer_segment_Small Business,0.0075
+categorical__customer_segment_Consumer,0.0071
+categorical__region_Midwest,0.0069
+categorical__customer_segment_Mid Market,0.0066
+categorical__region_South,0.0062
+categorical__region_Northeast,0.0062
+categorical__customer_segment_Enterprise,0.0056
